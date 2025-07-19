@@ -10,7 +10,7 @@ Colaboratoryでノートブックを開き、上から順に実行してくだ�
 # License 
 Voxtral-Mini-3B-Colaboratory-Sample is under [Apache 2.0 License](LICENSE).
 
-# License(Image)
+# License(audio)
 サンプル実行用に格納している曲は、[魔王魂](https://maou.audio/)様の[シャイニングスター](https://maou.audio/14_shining_star/)を利用しています。
 
 # Author
