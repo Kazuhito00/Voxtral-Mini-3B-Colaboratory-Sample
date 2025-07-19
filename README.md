@@ -1,5 +1,5 @@
 # Voxtral-Mini-3B-Colaboratory-Sample
-Colaboratory上で[Voxtral-Mini-3B-2507](https://huggingface.co/mistralai/Voxtral-Mini-3B-2507)をお試しするサンプルです。<bR>
+Colaboratory上で[Voxtral-Mini-3B-2507](https://huggingface.co/mistralai/Voxtral-Mini-3B-2507)のチャットとSTTをお試しするサンプルです。<bR>
 
 <img width="1430" height="928" alt="image" src="https://github.com/user-attachments/assets/d7f448cf-ad3c-4213-b629-28d24c2041ed" />
 
